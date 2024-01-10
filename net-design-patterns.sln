@@ -3,9 +3,26 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID", "SOLID", "{AA5E9D69-E008-4830-8F5F-0C40A3BCE030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID.SingleResponsibility", "SOLID.SingleResponsibility\SOLID.SingleResponsibility.csproj", "{804763D4-3EC4-476F-B433-09A9BEDAB143}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{804763D4-3EC4-476F-B433-09A9BEDAB143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804763D4-3EC4-476F-B433-09A9BEDAB143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804763D4-3EC4-476F-B433-09A9BEDAB143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804763D4-3EC4-476F-B433-09A9BEDAB143}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{804763D4-3EC4-476F-B433-09A9BEDAB143} = {AA5E9D69-E008-4830-8F5F-0C40A3BCE030}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {757F874C-DF03-477B-85AD-F3C5EAA3986B}
