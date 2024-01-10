@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural.Decorator", "Str
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural.Facade", "Structural Design Patterns\Structural.Facade\Structural.Facade.csproj", "{1EAA1723-3489-4F77-8652-EB6AB5C6253F}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Flyweight", "Structural Design Patterns\Structural.Flyweight\Structural.Flyweight.csproj", "{CC20A353-91A8-4169-B728-73F59D7E2CEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{1EAA1723-3489-4F77-8652-EB6AB5C6253F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EAA1723-3489-4F77-8652-EB6AB5C6253F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EAA1723-3489-4F77-8652-EB6AB5C6253F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC20A353-91A8-4169-B728-73F59D7E2CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC20A353-91A8-4169-B728-73F59D7E2CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC20A353-91A8-4169-B728-73F59D7E2CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC20A353-91A8-4169-B728-73F59D7E2CEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -125,6 +131,7 @@ Global
 		{F47512D8-0C8B-497D-AC1D-1F49EAA75271} = {93CD2989-D1CC-4E46-936A-68234655E1F4}
 		{CE4D8E32-0F97-45F9-B5F9-8140BF689895} = {93CD2989-D1CC-4E46-936A-68234655E1F4}
 		{1EAA1723-3489-4F77-8652-EB6AB5C6253F} = {93CD2989-D1CC-4E46-936A-68234655E1F4}
+		{CC20A353-91A8-4169-B728-73F59D7E2CEC} = {93CD2989-D1CC-4E46-936A-68234655E1F4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {757F874C-DF03-477B-85AD-F3C5EAA3986B}
