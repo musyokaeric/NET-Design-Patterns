@@ -23,3 +23,8 @@ var htmlBuilder = new HTMLBuilder();
 var htmlDirector = new HTMLDirector();
 var htmlDocument = htmlDirector.Construct(htmlBuilder);
 htmlDocument.Display();
+
+// In this example, the "HTMLBuilder" class implements the "IHTMLBuilder" interface to
+// construct different HTML elements. The "HTMLDirector" class provides a higher-level
+// interface to construct a complete HTML document. This allows for flexibility
+// and easy extension of the HTML document structure.

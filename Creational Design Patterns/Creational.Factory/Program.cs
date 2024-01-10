@@ -25,3 +25,8 @@ DocumentProcessor pdfProcessor = new PDFDocumentProcessor();
 IDocument pdfDocument = pdfProcessor.CreateDocument();
 pdfDocument.Open();
 pdfDocument.Save();
+
+// In this example, the "DocumentProcessor" is a Factory (Creator) providing a method "CreateDocument()",
+// and the concrete creators ("DOCXDocumentProcessor" and "PDFDocumentProcessor") implement this method
+// to create specific document types. This allows the application to add support for new document
+// formats without modifying existing code.

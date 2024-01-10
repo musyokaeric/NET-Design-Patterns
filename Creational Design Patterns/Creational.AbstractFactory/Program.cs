@@ -31,7 +31,7 @@ ITextBox macosTextBox = macosFactory.CreateTextBox();
 macosButton.Render();
 macosTextBox.Display();
 
-// In this example, the IGUIFactory is an abstract factory interface,
-// and the concrete factories (WindowsFactory and MacOSFactory) implement this interface
+// In this example, the "IGUIFactory" is an abstract factory interface,
+// and the concrete factories ("WindowsFactory" and "MacOSFactory") implement this interface
 // to create families of UI components specific to each operating system. This ensures that
 // UI components are compatible and consistent within each operating system.
