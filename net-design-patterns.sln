@@ -7,29 +7,31 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID", "SOLID", "{AA5E9D69
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID.SingleResponsibility", "SOLID\SOLID.SingleResponsibility\SOLID.SingleResponsibility.csproj", "{8802A234-2103-4CE7-841F-F9A19CC49FAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID.OpenClosed", "SOLID\SOLID.OpenClosed\SOLID.OpenClosed.csproj", "{F4335D15-5900-4B45-B011-8AE357904CDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID.OpenClosed", "SOLID\SOLID.OpenClosed\SOLID.OpenClosed.csproj", "{F4335D15-5900-4B45-B011-8AE357904CDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID.LiskovSubstitution", "SOLID\SOLID.LiskovSubstitution\SOLID.LiskovSubstitution.csproj", "{9D91E553-E04E-49CB-877D-98CF16FF233E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID.LiskovSubstitution", "SOLID\SOLID.LiskovSubstitution\SOLID.LiskovSubstitution.csproj", "{9D91E553-E04E-49CB-877D-98CF16FF233E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID.InterfaceSegregation", "SOLID\SOLID.InterfaceSegregation\SOLID.InterfaceSegregation.csproj", "{DC5C6A9A-B415-4261-8A28-9660F97518CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID.InterfaceSegregation", "SOLID\SOLID.InterfaceSegregation\SOLID.InterfaceSegregation.csproj", "{DC5C6A9A-B415-4261-8A28-9660F97518CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID.DependencyInversion", "SOLID\SOLID.DependencyInversion\SOLID.DependencyInversion.csproj", "{BD6C4B4D-A7F7-4769-9F4E-7325393BD066}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID.DependencyInversion", "SOLID\SOLID.DependencyInversion\SOLID.DependencyInversion.csproj", "{BD6C4B4D-A7F7-4769-9F4E-7325393BD066}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational Design Patterns", "Creational Design Patterns", "{052150F6-CCAF-408A-AB0C-D4D621A7A119}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.AbstractFactory", "Creational Design Patterns\Creational.AbstractFactory\Creational.AbstractFactory.csproj", "{FCD765F8-6152-4FE9-8592-CA910EFBF483}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.AbstractFactory", "Creational Design Patterns\Creational.AbstractFactory\Creational.AbstractFactory.csproj", "{FCD765F8-6152-4FE9-8592-CA910EFBF483}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.Builder", "Creational Design Patterns\Creational.Builder\Creational.Builder.csproj", "{4D1C0C23-16FF-4DD0-B737-622328DDC946}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.Builder", "Creational Design Patterns\Creational.Builder\Creational.Builder.csproj", "{4D1C0C23-16FF-4DD0-B737-622328DDC946}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.Factory", "Creational Design Patterns\Creational.Factory\Creational.Factory.csproj", "{840679E4-532F-40BC-A240-7F6EBCBE0A60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.Factory", "Creational Design Patterns\Creational.Factory\Creational.Factory.csproj", "{840679E4-532F-40BC-A240-7F6EBCBE0A60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.Prototype", "Creational Design Patterns\Creational.Prototype\Creational.Prototype.csproj", "{80620360-3148-4849-AE30-26380EFE6438}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.Prototype", "Creational Design Patterns\Creational.Prototype\Creational.Prototype.csproj", "{80620360-3148-4849-AE30-26380EFE6438}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.Singleton", "Creational Design Patterns\Creational.Singleton\Creational.Singleton.csproj", "{AD66E314-A980-489F-8940-46727B387D4F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural Design Patterns", "Structural Design Patterns", "{93CD2989-D1CC-4E46-936A-68234655E1F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural.Adapter", "Structural Design Patterns\Structural.Adapter\Structural.Adapter.csproj", "{0A62FB35-C294-4A87-A556-E3A33298CCDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Adapter", "Structural Design Patterns\Structural.Adapter\Structural.Adapter.csproj", "{0A62FB35-C294-4A87-A556-E3A33298CCDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural.Bridge", "Structural Design Patterns\Structural.Bridge\Structural.Bridge.csproj", "{351F4568-82DB-49BE-96F4-3C223F173963}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{0A62FB35-C294-4A87-A556-E3A33298CCDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A62FB35-C294-4A87-A556-E3A33298CCDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A62FB35-C294-4A87-A556-E3A33298CCDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{351F4568-82DB-49BE-96F4-3C223F173963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351F4568-82DB-49BE-96F4-3C223F173963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351F4568-82DB-49BE-96F4-3C223F173963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351F4568-82DB-49BE-96F4-3C223F173963}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -97,6 +103,7 @@ Global
 		{80620360-3148-4849-AE30-26380EFE6438} = {052150F6-CCAF-408A-AB0C-D4D621A7A119}
 		{AD66E314-A980-489F-8940-46727B387D4F} = {052150F6-CCAF-408A-AB0C-D4D621A7A119}
 		{0A62FB35-C294-4A87-A556-E3A33298CCDA} = {93CD2989-D1CC-4E46-936A-68234655E1F4}
+		{351F4568-82DB-49BE-96F4-3C223F173963} = {93CD2989-D1CC-4E46-936A-68234655E1F4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {757F874C-DF03-477B-85AD-F3C5EAA3986B}
