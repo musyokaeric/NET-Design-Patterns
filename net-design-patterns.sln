@@ -45,13 +45,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Proxy", "Structu
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral Design Patterns", "Behavioral Design Patterns", "{DFEF9AFC-FA44-40C6-96CD-C29F9C60DB09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.ChainOfResponsibility", "Behavioral Design Patterns\Behavioral.ChainOfResposibility\Behavioral.ChainOfResponsibility.csproj", "{7DE742A4-9EB8-4281-B1F6-FB6ECF09C2CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioral.ChainOfResponsibility", "Behavioral Design Patterns\Behavioral.ChainOfResposibility\Behavioral.ChainOfResponsibility.csproj", "{7DE742A4-9EB8-4281-B1F6-FB6ECF09C2CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.Command", "Behavioral Design Patterns\Behavioral.Command\Behavioral.Command.csproj", "{F8A2BF22-1C80-4509-BC98-EF7C14E4E103}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioral.Command", "Behavioral Design Patterns\Behavioral.Command\Behavioral.Command.csproj", "{F8A2BF22-1C80-4509-BC98-EF7C14E4E103}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.Interpreter", "Behavioral Design Patterns\Behavioral.Interpreter\Behavioral.Interpreter.csproj", "{7722E025-2483-4E6C-AE4A-24733F92B4BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioral.Interpreter", "Behavioral Design Patterns\Behavioral.Interpreter\Behavioral.Interpreter.csproj", "{7722E025-2483-4E6C-AE4A-24733F92B4BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.Iterator", "Behavioral Design Patterns\Behavior.Iterator\Behavioral.Iterator.csproj", "{80E1A1E3-2E7C-4D8F-B90C-147CE19FF406}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioral.Iterator", "Behavioral Design Patterns\Behavior.Iterator\Behavioral.Iterator.csproj", "{80E1A1E3-2E7C-4D8F-B90C-147CE19FF406}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.Mediator", "Behavioral Design Patterns\Behavioral.Mediator\Behavioral.Mediator.csproj", "{B6E47AE0-F147-4407-9FF7-38EE00CFA241}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -143,6 +145,10 @@ Global
 		{80E1A1E3-2E7C-4D8F-B90C-147CE19FF406}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80E1A1E3-2E7C-4D8F-B90C-147CE19FF406}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80E1A1E3-2E7C-4D8F-B90C-147CE19FF406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6E47AE0-F147-4407-9FF7-38EE00CFA241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E47AE0-F147-4407-9FF7-38EE00CFA241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E47AE0-F147-4407-9FF7-38EE00CFA241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E47AE0-F147-4407-9FF7-38EE00CFA241}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -169,6 +175,7 @@ Global
 		{F8A2BF22-1C80-4509-BC98-EF7C14E4E103} = {DFEF9AFC-FA44-40C6-96CD-C29F9C60DB09}
 		{7722E025-2483-4E6C-AE4A-24733F92B4BA} = {DFEF9AFC-FA44-40C6-96CD-C29F9C60DB09}
 		{80E1A1E3-2E7C-4D8F-B90C-147CE19FF406} = {DFEF9AFC-FA44-40C6-96CD-C29F9C60DB09}
+		{B6E47AE0-F147-4407-9FF7-38EE00CFA241} = {DFEF9AFC-FA44-40C6-96CD-C29F9C60DB09}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {757F874C-DF03-477B-85AD-F3C5EAA3986B}
