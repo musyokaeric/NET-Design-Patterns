@@ -59,6 +59,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioral.Memento", "Behav
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.Observer", "Behavioral Design Patterns\Behavioral.Observer\Behavioral.Observer.csproj", "{46F6A82A-8DFD-4030-A765-9F05734AC7E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.State", "Behavioral Design Patterns\Behavioral.State\Behavioral.State.csproj", "{14E8A539-D7F6-4EAE-8F0A-F9C3D604CD3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -161,6 +163,10 @@ Global
 		{46F6A82A-8DFD-4030-A765-9F05734AC7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46F6A82A-8DFD-4030-A765-9F05734AC7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46F6A82A-8DFD-4030-A765-9F05734AC7E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14E8A539-D7F6-4EAE-8F0A-F9C3D604CD3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E8A539-D7F6-4EAE-8F0A-F9C3D604CD3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E8A539-D7F6-4EAE-8F0A-F9C3D604CD3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E8A539-D7F6-4EAE-8F0A-F9C3D604CD3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -190,6 +196,7 @@ Global
 		{B6E47AE0-F147-4407-9FF7-38EE00CFA241} = {DFEF9AFC-FA44-40C6-96CD-C29F9C60DB09}
 		{3BFAD384-2B94-47C2-820D-0C263B07E76E} = {DFEF9AFC-FA44-40C6-96CD-C29F9C60DB09}
 		{46F6A82A-8DFD-4030-A765-9F05734AC7E3} = {DFEF9AFC-FA44-40C6-96CD-C29F9C60DB09}
+		{14E8A539-D7F6-4EAE-8F0A-F9C3D604CD3C} = {DFEF9AFC-FA44-40C6-96CD-C29F9C60DB09}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {757F874C-DF03-477B-85AD-F3C5EAA3986B}
